@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.2.5
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: gunnarvoet@gmail.com
+author_name: Gunnar Voet
+data_format: string
+file_extension: ''
+has_binder: false
+has_settings: false
+kind: theme
+labextension_name: jupyter-theme-gv
+mimetype: ''
+mimetype_name: ''
+project_short_description: A JupyterLab / Jupyter Notebook Theme.
+python_name: jupyter_theme_gv
+repository: https://github.com/gunnarvoet/jupyter-theme-gv
+test: false
+viewer_name: ''
+

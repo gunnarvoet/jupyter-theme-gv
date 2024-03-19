@@ -1,0 +1,19 @@
+@import url('./variables.css');
+
+/* Set the default typography for monospace elements */
+tt,
+code,
+kbd,
+samp,
+pre {
+  font-family: var(--jp-code-font-family);
+  font-size: var(--jp-code-font-size);
+  line-height: var(--jp-code-line-height);
+}
+
+div.lm-Widget.jp-InputArea {  
+      max-width: 65em; /* instead of 100%, */
+}
+div.lm-Widget.jp-OutputArea {  
+      max-width: 65em; /* instead of 100%, */
+}
