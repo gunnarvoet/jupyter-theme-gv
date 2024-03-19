@@ -1,0 +1,13 @@
+name: jup-theme
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyter
+  - ipykernel
+  - numpy
+  - jupyterlab=4
+  - notebook>=7
+  - nodejs=18
+  - copier=7
+  - jinja2-time
